@@ -1,0 +1,14 @@
+
+public class PT1_1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// 這段在幹嘛
+		/* ^RF&^VRY&F&R
+		 * YUH
+		 * JINJINIJ */
+		System.out.print("Hello JAVA\n");
+		System.out.println("XDDD");
+	}
+
+}

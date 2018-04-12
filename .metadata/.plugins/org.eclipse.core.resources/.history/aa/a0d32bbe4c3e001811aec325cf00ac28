@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class PT1_2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// 打開鍵盤，使鍵盤能夠輸入
+		Scanner in = new Scanner(System.in);
+		// 宣告
+		String a = in.nextLine();
+		in.close();
+		System.out.print(a);
+		System.out.print("XDD");
+	}
+
+}
