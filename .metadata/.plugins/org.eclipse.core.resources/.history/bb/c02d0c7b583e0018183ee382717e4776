@@ -4,11 +4,11 @@ public class PT1_1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// 單行註解
-//		 多
-//		 行
-//		 註
-//		 解
-		 
+		/* 多
+		 * 行
+		 * 註
+		 * 解
+		 */
 		String a = "XD";
 		System.out.printf("This is first string %s ",a);
 		System.out.print("This is second string\n");

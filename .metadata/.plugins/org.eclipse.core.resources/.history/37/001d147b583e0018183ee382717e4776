@@ -13,6 +13,6 @@ public class PT1_2 {
 		in.close();
 		System.out.println(a);
 		System.out.print(b);
-	}  
+	}
 
 }
