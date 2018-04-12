@@ -10,7 +10,7 @@ public class PT1_1 {
 		 * 解
 		 */
 		String a = "XD";
-		System.out.printf("This is first string %s ",a);
+		System.out.printf("This is first string%s ",a);
 		System.out.print("This is second string\n");
 		// println以換行符號為結束符號
 		System.out.println("This is third string");
